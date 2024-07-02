@@ -1,0 +1,5 @@
+Flask==2.1.1
+Flask-SQLAlchemy==2.5.1
+pyresparser==1.0.6
+spacy==3.1.1
+Typer==0.3.1
